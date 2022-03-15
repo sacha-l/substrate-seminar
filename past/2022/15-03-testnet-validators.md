@@ -112,7 +112,7 @@ Save these in a text editor somewhere.
 
 ```bash
 curl -H "Content-Type: application/json" -d '{"id":1, "jsonrpc":"2.0", 
-"method": "author_insertKey", "params":["babe", "best squeeze they prefer attract fix arrest busy olympic glimpse cable raccoon", "0xe0625d45afa966320e2328294e71d9d59fc1e18c0ab2a1623c86be943e6d4217"] }' http://127.0.0.1:9933
+"method": "author_insertKey", "params":["babe", "", ""] }' http://127.0.0.1:9933
 ```
 
 _The result should return `{"jsonrpc":"2.0","result":null,"id":1}`._
@@ -121,7 +121,7 @@ _The result should return `{"jsonrpc":"2.0","result":null,"id":1}`._
 
 ```bash
 curl -H "Content-Type: application/json" -d '{"id":1, "jsonrpc":"2.0", 
-"method": "author_insertKey", "params":["babe", "awake leg drop eyebrow ensure used patrol service pride gown citizen machine", "0xf4c3f7d6b068c18733548cae3cbba549793f850bce73f126096d81b830969a16"] }' http://127.0.0.1:9933
+"method": "author_insertKey", "params":["gran", "", ""] }' http://127.0.0.1:9933
 ```
 
 _The result should return `{"jsonrpc":"2.0","result":null,"id":1}`._
