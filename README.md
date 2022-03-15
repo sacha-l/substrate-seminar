@@ -29,5 +29,6 @@ Some past seminars (2022):
 ## How it works
 
 * To suggest a new topic, just make a new issue in this repo.
-* To view past seminar material, navigate to the `past-seminars` folder to find the material you're looking for.
-* To discuss ideas for new seminars, use the discussion area.
+* To view past seminar material, navigate to the `past` folder to find the material you're looking for.
+* To discuss ideas for new seminars, make an issue or comment on an existing one that's open.
+* To find resources and material you may want to study in preparation for an upcoming seminar, navigate to the `upcoming` folder. The contents here will be moved to the `past` folder once the seminar has been completed.
