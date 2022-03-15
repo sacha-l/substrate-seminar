@@ -128,13 +128,13 @@ _The result should return `{"jsonrpc":"2.0","result":null,"id":1}`._
 
 7. Submit another RPC call to generate new session keys using [`author_rotateKeys`](https://docs.substrate.io/rustdocs/latest/sc_rpc/author/trait.AuthorApi.html#tymethod.rotate_keys). Make sure to input the correct port! 
 
-```bash=
-curl -H 'Content-Type: application/json' --data '{ “jsonrpc”:”2.0", "method":"author_rotateKeys", "id":1 }' http://127.0.0.1:9933
+```bash
+curl -H 'Content-Type: application/json' --data '{ "jsonrpc":"2.0", "method":"author_rotateKeys", "id":1 }' http://127.0.0.1:9933
 ```
 
-The result should return: `{"jsonrpc":"2.0","result":null, "id":null}` followed by a hex-encoded blob in the result field, which is the concatenation of the four public keys.
+The result should return a JSON RPC result containing a hex-encoded blob in the result field, which is the concatenation of the four public keys.
 
-If this step worked correctly, you’ll see it in your keystore. For example, in: `/usr/local/bin/polkadot/chains/rococo_staging_testnet/keystore`
+If this step worked correctly, you’ll see the added keys in your keystore. For example, in: `/usr/local/bin/polkadot/chains/rococo_staging_testnet/keystore`
 
 8. Request network tokens from a network admin or a comrade who holds some.
 
@@ -148,9 +148,10 @@ In the `keys` field, paste in the result from (7).
 
 In the proof field, just put `0x00`.
 
-10. Add your key as a validator by submitting a `ValidationManager -> registerValidators` extrinsic.
+10. Ask a network admin (sudo user) to add your key as a validator by submitting a `ValidationManager -> registerValidators` extrinsic.
 
-11. You should see your node become a validator in Polkadot JS apps by looking at the validator set.
+11. You should see your node become a validator in Polkadot JS apps by looking at the validator set: 
+`Developer -> Chain state -> validatorManager -> validatorsToAdd`.
 
 12. Connect to [Telemetry](https://telemetry.polkadot.io/#/0xd693b58399f3666610f7fbd9d5fad9ad7ec24de1229a2cb0be6d47f8e1c17f41) to check that your node appears. In the next epoch, it will be included in the validator set.
 
