@@ -83,7 +83,14 @@ Useful tutorials:
 --name SachaNode01 \
 ```
 
-Our chain spec already contains bootnodes, but if you come across a chain spec without any bootnodes, ask a comrade who is running a node to provide you with a bootnode address and then add the `— bootnodes` tag to your command with that address.
+Our chain spec already contains bootnodes, but if you come across a chain spec without any bootnodes, ask a comrade who is running a node to provide you with a bootnode address and then add the `--bootnodes` flag to your command with that address.
+
+**Tip💡**: if you wanted to launch another node from the same machine, you can accelerate the synching by copying the files in your chain's `db` to a new base path. First:
+`mkdir /usr/local/bin/polkadot2/chains/rococo_staging_testnet/db/full/`
+
+then:
+
+`cp -r /usr/local/bin/polkadot/chains/rococo_staging_testnet/db/full/ /usr/local/bin/polkadot2/chains/rococo_staging_testnet/db/full/`
 
 3. You should see your node synching with the other peers in the network by going to [Polkadot JS Apps](https://apps.decentration.org/?rpc=wss%3A%2F%2Fpopart1.jelliedowl.com#/explorer/node).
 
