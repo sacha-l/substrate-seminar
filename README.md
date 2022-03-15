@@ -7,6 +7,8 @@ _**NOTE:** This is repo is experimental. Once we see that there is enough intere
 ## About Substrate seminar
 
 Substrate seminar is a bi-weekly online meet-up for learning all things [Substrate](https://substrate.io/).
+Seminars happen live via [Crowdcast](https://www.crowdcast.io/e/substrate-seminar-2/), where participants can ask questions and engage directly with presenters.
+Each session is live streamed to [Parity's Youtube playlist](https://www.youtube.com/playlist?list=PLp0_ueXY_enXRfoaW7sTudeQH10yDvFOS).
 
 📅 Stay informed of upcoming seminars by adding the seminar schedule to your calendar using [this link](https://calendar.google.com/calendar/u/0?cid=Y192cXBsamk3cXY2ajBvcDVrbmdwMGR0cjUzc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
 Seminar usually happens every other Tuesday at 3PM CET.
