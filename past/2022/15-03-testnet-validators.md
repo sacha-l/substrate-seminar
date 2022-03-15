@@ -182,3 +182,4 @@ A couple things to go over:
 - [Different types of nodes](https://wiki.polkadot.network/docs/maintain-sync#types-of-nodes) (Polkadot wiki)
 - [Being a validator on Polkadot](https://wiki.polkadot.network/docs/maintain-index#validator) (Polkadot wiki)
 - [Session keys](https://docs.substrate.io/v3/concepts/session-keys/) (Substrate docs)
+- [Polkadot keys](https://wiki.polkadot.network/docs/learn-keys) (Polkadot wiki)
