@@ -70,7 +70,7 @@ Useful tutorials:
 ```bash
 ./target/release/polkadot \
 --validator \
---base-path /usr/local/bin/polkadot \
+--base-path ~/polkadot-testnet/node1 \
 --unsafe-ws-external \
 --rpc-methods=Unsafe \
 --rpc-external=True \
@@ -86,11 +86,11 @@ Useful tutorials:
 Our chain spec already contains bootnodes, but if you come across a chain spec without any bootnodes, ask a comrade who is running a node to provide you with a bootnode address and then add the `--bootnodes` flag to your command with that address.
 
 **Tip💡**: if you wanted to launch another node from the same machine, you can accelerate the synching by copying the files in your chain's `db` to a new base path. First:
-`mkdir /usr/local/bin/polkadot2/chains/rococo_staging_testnet/db/full/`
+`mkdir -p ~/polkadot-testnet/node2/chains/rococo_staging_testnet/db/full/`
 
 then:
 
-`cp -r /usr/local/bin/polkadot/chains/rococo_staging_testnet/db/full/ /usr/local/bin/polkadot2/chains/rococo_staging_testnet/db/full/`
+`cp -r ~/polkadot-testnet/node1/chains/rococo_staging_testnet/db/full/ ~/polkadot-testnet/node2/chains/rococo_staging_testnet/db/full/`
 
 3. You should see your node synching with the other peers in the network by going to [Polkadot JS Apps](https://apps.decentration.org/?rpc=wss%3A%2F%2Fpopart1.jelliedowl.com#/explorer/node).
 
@@ -134,7 +134,7 @@ curl -H 'Content-Type: application/json' --data '{ "jsonrpc":"2.0", "method":"au
 
 The result should return a JSON RPC result containing a hex-encoded blob in the result field, which is the concatenation of the four public keys.
 
-If this step worked correctly, you’ll see the added keys in your keystore. For example, in: `/usr/local/bin/polkadot/chains/rococo_staging_testnet/keystore`
+If this step worked correctly, you’ll see the added keys in your keystore. For example, in: `~/polkadot-testnet/node1/chains/rococo_staging_testnet/keystore`
 
 8. Request network tokens from a network admin or a comrade who holds some.
 
