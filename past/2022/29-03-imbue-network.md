@@ -8,7 +8,7 @@ Have a look at the original seminar proposal [here](https://github.com/sacha-l/s
 
 Some useful inforamtion for those watching the seminar or who plan on attending and want to learn more about the project:
 
-- Imbue Network is a project with grant support by the Web3 Foundation (see [imbue.network](https://www.imbue.network/)
+- Imbue Network is a project with grant support by the Web3 Foundation (see [imbue.network](https://www.imbue.network/))
 - Check out the Substrate node implementation [here](https://github.com/ImbueNetwork/imbue) 
 - Check out the UI walkthrough [demo video](https://www.youtube.com/watch?v=-Q61e3x9eEE)
 - Check out the [UI codebase](https://github.com/imbuenetwork/dapp)
