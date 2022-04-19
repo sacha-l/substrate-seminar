@@ -2,7 +2,7 @@
 
 **Date**: Tuesday, April 19th 2022
 
-**Description:** In this seminar, Daniel Olano lead developer at [Virto.network](http://Virto.nework) will demonstrate the 3 libraries that power what he calls the Wallet API: [Scales](https://github.com/virto-network/scales), [Sube](https://github.com/virto-network/sube) and [Libwallet](https://github.com/virto-network/libwallet). He will talk about his current use cases for these libraries, how he envisions them being used and what it means to build applications that are fully decentralized in the client.
+**Description:** In this seminar, Daniel Olano lead developer at [Virto.network](http://Virto.network) will demonstrate the 3 libraries that power what he calls the Wallet API: [Scales](https://github.com/virto-network/scales), [Sube](https://github.com/virto-network/sube) and [Libwallet](https://github.com/virto-network/libwallet). He will talk about his current use cases for these libraries, how he envisions them being used and what it means to build applications that are fully decentralized in the client.
 
 
 ## Plan 
