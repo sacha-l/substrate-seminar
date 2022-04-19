@@ -22,6 +22,7 @@
 6. Future
 - What are your next steps / future plans
 - How can others contribute / get involved
+- Contribut to the [smoldot integration](https://github.com/virto-network/sube/issues/3)
 
 ---
 
