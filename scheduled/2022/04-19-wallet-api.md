@@ -8,7 +8,7 @@
 ## Plan 
 1.  Introduction and about Virto network
 
-3. What is the Wallet API 
+3. What is the [Wallet API](https://github.com/virto-network/virto-apis#%EF%B8%8F-wallet-api) 
 - What are the different parts of it 
 - How does it fit into what you're building
 - What makes Sube unique (compared to Subxt for example)
@@ -21,7 +21,7 @@
 
 6. Future
 - What are your next steps / future plans
-- How can other contribute / get involved
+- How can others contribute / get involved
 
 ---
 
