@@ -15,7 +15,7 @@
 
 4. High level application design 
 - What makes using these tools (Sube, Libwallet and Scales) for building applications different that using Polkadot JS api ? Why can't you just use Polkadot JS API for what you're building?
-- What does progressive decentralization mean to you?
+- What does [progressive decentralization](https://github.com/virto-network/sube#progressive-decentralization) mean to you?
 
 5. Prototype and demo
 
