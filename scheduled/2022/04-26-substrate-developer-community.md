@@ -1,4 +1,4 @@
-# Substrate's developer community 
+# Substrate's developer resources 
 
 As the Substrate developer community grows, this seminar aims to share some initiatives being made to support current and future developers in the Substrate and Polkadot developer community.
 It also aims to hear your thoughts on what you like about certain initiatives, dislike and how you think they could be improved.
