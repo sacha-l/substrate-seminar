@@ -16,7 +16,6 @@ The Substrate developer community currently has the following resources to stay 
 - Hackathons and boot Camps: ongoing hackathons and bootcamps.
 
 Please feel free to make a PR to this page if there's anything you feel is missing in this list! 😃
-- Hackathons and boot Camps: ongoing hackathons and bootcamps.
 
 ## 💻 StackExchange 
 
