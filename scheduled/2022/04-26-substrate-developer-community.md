@@ -33,6 +33,7 @@ Some updates:
 
 - [Substrate newsletter](https://substrate.io/ecosystem/connect/newsletter/): a monthly digest on everthing from upcoming events to technical updates.
 - [One block+](https://medium.com/@OneBlockplus): a monthly digest on technical updates for popular projects in the community.
+- [Polkadot newsletter](https://info.polkadot.network/subscribe): all things related to the Polkadot ecosystem.
 
 ## 👨‍🏫 Seminar
 
