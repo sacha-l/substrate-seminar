@@ -65,6 +65,12 @@ Check out these channels:
 - [Substrate Developers Public Space](https://matrix.to/#/#substrate-builders-space:matrix.parity.io) - Curated collection of rooms around all things Substrate.
 - [Substrate devs](https://matrix.to/#/#substratedevs:matrix.org) (bridged to https://t.me/substratedevs) - A community initiative to foster collaboration among all Substrate devs.
 
+## Last minute add-ons
+
+- Elio from the Edgeware community on [reworking the Substrate recipes](
+https://gov.edgewa.re/discussion/4107-proposal-kabocha-kitchen-node-substrate-recipes)
+
+
 ## Polls (for crowdcast)
 
 * How much experience do you have building with Substrate?
