@@ -3,6 +3,17 @@
 A place to discuss topics for upcoming seminars and revisit past ones.
 
 _**NOTE:** This is repo is experimental. Once we see that there is enough interest, we'll make proper templates for posting issues, upload past material and set up the discussion area._
+
+## 📆 Scheduled seminars 
+
+| Date | Topic | Original proposal | Crowdcast link |
+| ---- | ----- | ----- | --- |
+| May 10 | TBD | TBA | TBA |
+| May 24 | Using the Rococo test network | [#4](https://github.com/substrate-developer-hub/substrate-seminar/issues/4) | TBA |
+| June 7 | Chasing the Block: Developing Elegant UI Applications for Substrate | [#3](https://github.com/substrate-developer-hub/substrate-seminar/issues/13) | TBA |
+| June 21 | TBD | TBA | TBA |
+
+
 ## ✅ Why have this repo?
 
 * To get the community involved in suggesting new topics or discussing topics they'd like to study.
