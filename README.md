@@ -8,7 +8,7 @@ _**NOTE:** This is repo is experimental. Once we see that there is enough intere
 
 | Date | Topic | Original proposal | Crowdcast link |
 | ---- | ----- | ----- | --- |
-| May 10 | TBD | TBA | TBA |
+| May 10 | A multi-bridge router for Dotsama and other ecosystems | [#11](https://github.com/substrate-developer-hub/substrate-seminar/issues/11) | TBA |
 | May 24 | Using the Rococo test network | [#4](https://github.com/substrate-developer-hub/substrate-seminar/issues/4) | TBA |
 | June 7 | Chasing the Block: Developing Elegant UI Applications for Substrate | [#3](https://github.com/substrate-developer-hub/substrate-seminar/issues/13) | TBA |
 | June 21 | TBD | TBA | TBA |
