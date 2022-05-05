@@ -11,8 +11,9 @@ _(this is a proposed plan for the seminar, the actual plan will depend on the pr
 * Parachain registration process: demo and explanation of how to add a chain to Rococo
 * Next steps: questions, future steps, vision
 
-## Questions
+## Q&A 
 
+Here are some interesting questions to consider asking during this seminar (make PR to this page if you have ones that aren't yet here).
 ### High-level:
 * What's the role of Rococo for the Polakdot community?
 * How do we envision engaging with the community?
