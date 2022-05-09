@@ -2,7 +2,7 @@
 
 A place to discuss topics for upcoming seminars and revisit past ones.
 
-_**NOTE:** This is repo is experimental. Once we see that there is enough interest, we'll make proper templates for posting issues, upload past material and set up the discussion area._
+👉 [**Add Seminar to my calendar**](https://calendar.google.com/calendar/u/0?cid=Y192cXBsamk3cXY2ajBvcDVrbmdwMGR0cjUzc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) 👈
 
 ## 📆 Scheduled seminars 
 
