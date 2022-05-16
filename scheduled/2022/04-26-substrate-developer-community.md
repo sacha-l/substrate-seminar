@@ -51,7 +51,7 @@ Currently, two new bootcamps have just been announced:
 And a few hackathons are ongoing:
 
 - [AmsterDOT 2022](https://dorahacks.io/hackathon/22/): +$150,000 shared prize pool with bounties from several top ecosystem projects.
-- [Chainlink 2022](https://chain.link/hackathon): check out our many prizes on our [challenges page](https://github.com/paritytech/chainlink-hackathon-2022/blob/main/challenges/README.md). Dates: April 22 - May 7.
+- [Chainlink 2022](https://chain.link/hackathon): check out our many prizes on our [challenges page](https://github.com/paritytech/chainlink-hackathon-2022/blob/main/challenges/README.md). Dates: April 22 - May 27.
 
 ## 🤩 Awesome Substrate 
 
