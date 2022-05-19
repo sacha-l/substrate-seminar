@@ -41,7 +41,7 @@ A quick chronological go-through of the projects I've built and am currently bui
 - Finding [Klad](https://klad.design), the design team, and getting the UX and UI design work completed.
   - Initial briefing [documentation](https://docs.google.com/document/d/1gVGHBSqji-XJc6luvLDm3ilq08LMVb2hhC3EqZ5jr5Q/edit?usp=sharing) for the designers and introductory calls.
   - [Branding](https://drive.google.com/file/d/1Bwn919_43cp30fwmVazKl8BEoCmetw6L/view?usp=sharing).
-  - [UX mapping](https://www.figma.com/file/XzSssIXskyo8aMTc1myClC/?node-id=178%3A350), [UX design](https://www.figma.com/file/XzSssIXskyo8aMTc1myClC/?node-id=0%3A1) and [UI design](https://www.figma.com/file/XzSssIXskyo8aMTc1myClC/?node-id=178%3A603).
+  - [UX mapping](https://www.figma.com/file/L84Smtnk67z5ZjpDl7xVmA/SubVT-UI%2FUX-(CNUP)?node-id=178%3A350), [UX design](https://www.figma.com/file/L84Smtnk67z5ZjpDl7xVmA/SubVT-UI%2FUX-(CNUP)?node-id=0%3A1) and [UI design](https://www.figma.com/file/L84Smtnk67z5ZjpDl7xVmA/SubVT-UI%2FUX-(CNUP)?node-id=178%3A603).
   - Design [documentation](https://drive.google.com/file/d/1sZUt4GM0ghOm0bAdAEWUMF-ujsfR_Zbo/view?usp=sharing) and [assets](https://github.com/helikon-labs/subvt/tree/main/assets/design).
 
 ### ChainViz ([🔗](https://alpha.chainviz.app))
