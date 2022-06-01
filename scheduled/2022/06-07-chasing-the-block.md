@@ -1,5 +1,7 @@
 # Chasing the Block: Developing Elegant UI Applications for Substrate
 
+Crowdcast link: https://www.crowdcast.io/e/substrate-seminar-2/20
+
 ## Context
 
 Developing elegant and innovative UI applications for the Substrate ecosystem is an extremely challenging and equally rewarding endeavor. This proposed seminar is broadly about my experience and learnings (and troubles 🤭) so far as an application developer for the Substrate ecosystem in the last ~1.5 years, and how they could hopefully apply to this much relevant field.
