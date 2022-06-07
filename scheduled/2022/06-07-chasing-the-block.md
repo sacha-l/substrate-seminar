@@ -1,4 +1,4 @@
-# Chasing the Block: Developing Elegant UI Applications for Substrate
+# One Block at a Time: Developing Applications for Substrate
 
 Crowdcast link: https://www.crowdcast.io/e/substrate-seminar-2/20
 
