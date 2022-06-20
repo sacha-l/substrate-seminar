@@ -12,7 +12,7 @@ The seminar will be an introduction to Subsquid, its guiding principles and fund
 
 ## Links and resources
 
-This is [a demo deck](https://hackmd.io/@RaekwonIII/Moonbeam-workshop) I used for a different workshop, I have not prepared one for this seminar, I might make a few changes.
+This is [the demo deck](https://hackmd.io/@RaekwonIII/Substrate-Seminar-🎓) I'll be using for the seminar.
 
 - [Subsquid docs](https://docs.subsquid.io/)
 - [Subsquid main GitHub repo](https://github.com/subsquid/squid) and [template repository](https://github.com/subsquid/squid-template), which is the starting point for developers.
@@ -21,3 +21,4 @@ This is [a demo deck](https://hackmd.io/@RaekwonIII/Moonbeam-workshop) I used fo
   - [Crust example](https://github.com/subsquid/squid-crust-example) featured in [this Tutorial](https://docs.subsquid.io/tutorial/create-a-simple-squid) in the docs
   - A [Polkadot Treasury Proposals explorer](https://github.com/subsquid/squid-polkadot-treasury-example)
   - An [example showcasing the support for external APIs calls](https://github.com/subsquid/squid-external-api-example) while processing on-chain data (featuring CoinGecko)
+- Link to our new [Giant Squid API](https://docs.subsquid.io/recipes/giant-squid-api) documentation.
