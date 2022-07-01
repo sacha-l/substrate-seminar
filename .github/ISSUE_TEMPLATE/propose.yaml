@@ -16,14 +16,14 @@ body:
       label: Title
       description: What's the title of your proposed seminar?
   - type: dropdown
-  id: level
-  attributes:
-    label: How advanced is this topic in terms of pre-requisite knowledge of Substrate?
-    multiple: true
-    options:
-      - Beginner friendly
-      - Intermediate 
-      - Advanced
+    id: level
+    attributes:
+      label: How advanced is this topic in terms of pre-requisite knowledge of Substrate?
+      multiple: true
+      options:
+        - Beginner friendly
+        - Intermediate 
+        - Advanced
   - type: textarea
     id: topic-description
     attributes:
@@ -39,14 +39,14 @@ body:
       placeholder: e.g. Pallet development, blockchain indexing, multi-chain application development
     validations:
       required: true
-   - type: textarea
+  - type: textarea
     id: seminar-plan
     attributes:
       label: Plan
       description: Please outline the plan you will go over for this seminar (e.g. Introduction, Part 1, Part 2..).
     validations:
       required: true
-    - type: textarea
+  - type: textarea
     id: resources
     attributes:
       label: Links and resources

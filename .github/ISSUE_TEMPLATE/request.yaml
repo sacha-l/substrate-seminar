@@ -27,14 +27,14 @@ body:
       placeholder: e.g. Transaction pool validation
     validations:
       required: true
-   - type: textarea
+  - type: textarea
     id: additional-comments
     attributes:
       label: Additional information
       description: Why is this topic important or interesting to you? Please add any additional information to help scope out a seminar plan for your topic request.
     validations:
       required: true
-       - type: dropdown
+  - type: dropdown
     id: level
     attributes:
       label: How advanced is this topic in terms of pre-requisite knowledge of Substrate?
