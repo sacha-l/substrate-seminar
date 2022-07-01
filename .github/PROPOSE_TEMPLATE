@@ -1,0 +1,55 @@
+name: Propose a topic
+description: Propose a topic you would like to present on seminar. 🎉
+title: "[Topic Proposal]: "
+labels: ["topic-proposal"]
+assignees:
+  - sacha-l
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Substrate Seminar is a chance for developers to share what they're working on and learn from each other. 
+        Use this form to propose a topic that you would like to present.
+  - type: input
+    id: title
+    attributes:
+      label: Title
+      description: What's the title of your proposed seminar?
+  - type: dropdown
+  id: level
+  attributes:
+    label: How advanced is this topic in terms of pre-requisite knowledge of Substrate?
+    multiple: true
+    options:
+      - Beginner friendly
+      - Intermediate 
+      - Advanced
+  - type: textarea
+    id: topic-description
+    attributes:
+      label: Description
+      description: Please describe what your seminar is going to be about in 2-3 sentences.
+    validations:
+      required: true
+  - type: input
+    id: topic-input
+    attributes:
+      label: Topic
+      description: Indicate the topic(s) and/or theme(s) your seminar covers.
+      placeholder: e.g. Pallet development, blockchain indexing, multi-chain application development
+    validations:
+      required: true
+   - type: textarea
+    id: seminar-plan
+    attributes:
+      label: Plan
+      description: Please outline the plan you will go over for this seminar (e.g. Introduction, Part 1, Part 2..).
+    validations:
+      required: true
+    - type: textarea
+    id: resources
+    attributes:
+      label: Links and resources
+      description: Provide any links and resources so that reviewers can learn more about the topic you plan on presenting (e.g. link to GitHub repository, reading material, slide deck etc.). This is also an opportunity to provide resources to seminar attendees in order to help them prepare before your presentation.
+    validations:
+      required: false

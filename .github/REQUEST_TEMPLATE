@@ -1,0 +1,45 @@
+name: Topic request
+description: Request a topic that you would like to learn more about in a future Seminar.
+title: "[Topic Request]: "
+labels: ["topic-request"]
+assignees:
+  - sacha-l
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Substrate Seminar is a chance for developers to share what they're working on and learn from each other. 
+        Use this form to request a topic that you would like to learn more about. 
+        Once submitted, someone in the Substrate developer community (knowledgeable in the topic) may suggest to come on Seminar to present your topic request to the rest of the community.
+         ⚠️ Before you submit this form, please check that the topic hasn't already been covered [here](https://www.youtube.com/playlist?list=PLp0_ueXY_enXRfoaW7sTudeQH10yDvFOS).
+  - type: textarea
+    id: topic-description
+    attributes:
+      label: Description
+      description: Please describe the topic you would like to learn more about and give any additional context. Note that Seminar aims to be focused on technical aspects of applications that either interact with or are built with Substrate.
+    validations:
+      required: true
+  - type: input
+    id: topic-input
+    attributes:
+      label: Topic
+      description: Indicate the specific topic you would like to learn more about. This could be a list of several related topics.
+      placeholder: e.g. Transaction pool validation
+    validations:
+      required: true
+   - type: textarea
+    id: additional-comments
+    attributes:
+      label: Additional information
+      description: Why is this topic important or interesting to you? Please add any additional information to help scope out a seminar plan for your topic request.
+    validations:
+      required: true
+       - type: dropdown
+    id: level
+    attributes:
+      label: How advanced is this topic in terms of pre-requisite knowledge of Substrate?
+      multiple: true
+      options:
+        - Beginner friendly
+        - Intermediate 
+        - Advanced
