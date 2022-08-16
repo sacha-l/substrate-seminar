@@ -4,15 +4,14 @@ A place to discuss topics for upcoming seminars and revisit past ones.
 
 👉 [**Add Seminar to my calendar**](https://calendar.google.com/calendar/u/0?cid=Y192cXBsamk3cXY2ajBvcDVrbmdwMGR0cjUzc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) 👈
 
-## 📆 Scheduled seminars 
+## About Substrate seminar
 
-| Date | Topic | Original proposal | Crowdcast link |
-| ---- | ----- | ----- | --- |
-| May 10 | [A multi-bridge router for Dotsama and other ecosystems](https://github.com/substrate-developer-hub/substrate-seminar/blob/main/scheduled/2022/05-10-subbridge-from-phala.md) | [#11](https://github.com/substrate-developer-hub/substrate-seminar/issues/11) | [🔗](https://www.crowdcast.io/e/substrate-seminar-2/18) |
-| May 24 | [Using the Rococo test network](https://github.com/substrate-developer-hub/substrate-seminar/blob/main/scheduled/2022/05-24-rococo-testnet.md) | [#4](https://github.com/substrate-developer-hub/substrate-seminar/issues/4) | [🔗](https://www.crowdcast.io/e/substrate-seminar-2/19) |
-| June 7 | [One Block at a Time: Developing Applications for Substrate](https://github.com/substrate-developer-hub/substrate-seminar/blob/main/scheduled/2022/06-07-one-block-at-a-time.md) | [#13](https://github.com/substrate-developer-hub/substrate-seminar/issues/13) | [🔗](https://www.crowdcast.io/e/substrate-seminar-2/20) |
-| June 21 | [Subsquid: an open, permissive and decentralized indexing framework for Substrate and EVM](https://github.com/substrate-developer-hub/substrate-seminar/blob/main/scheduled/2022/06-21-subsquid.md) | [#14](https://github.com/substrate-developer-hub/substrate-seminar/issues/14) | [🔗](https://www.crowdcast.io/e/substrate-seminar-2/21) |
+Substrate seminar is a bi-weekly online meet-up by Parity Technologies for learning all things [Substrate](https://substrate.io/).
+Seminars happen live via [Crowdcast](https://www.crowdcast.io/e/substrate-seminar-2/), where participants can ask questions and engage directly with presenters.
+Each session is live streamed to [Parity's Youtube playlist](https://www.youtube.com/playlist?list=PLp0_ueXY_enXRfoaW7sTudeQH10yDvFOS).
 
+📅 Stay informed of upcoming seminars by adding the seminar schedule to your calendar using [this link](https://calendar.google.com/calendar/u/0?cid=Y192cXBsamk3cXY2ajBvcDVrbmdwMGR0cjUzc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
+Seminar usually happens every other Tuesday at 3PM CET.
 
 ## ✅ Why have this repo?
 
@@ -41,14 +40,6 @@ Then, they can add any relevant materials to this folder to help participants pr
 Anyone is welcome to, just open an issue! 
 
 ---
-## About Substrate seminar
-
-Substrate seminar is a bi-weekly online meet-up for learning all things [Substrate](https://substrate.io/).
-Seminars happen live via [Crowdcast](https://www.crowdcast.io/e/substrate-seminar-2/), where participants can ask questions and engage directly with presenters.
-Each session is live streamed to [Parity's Youtube playlist](https://www.youtube.com/playlist?list=PLp0_ueXY_enXRfoaW7sTudeQH10yDvFOS).
-
-📅 Stay informed of upcoming seminars by adding the seminar schedule to your calendar using [this link](https://calendar.google.com/calendar/u/0?cid=Y192cXBsamk3cXY2ajBvcDVrbmdwMGR0cjUzc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
-Seminar usually happens every other Tuesday at 3PM CET.
 
 ⭐️ Some past seminars (2022):
 
