@@ -1,7 +1,9 @@
 ### Build a social oracle with ink! on Phala
 
 ⚡️ Intermediate
+
 👤 Presenter: Phala network
+
 📆 Date scheduled: September 27th 2022
 
 ### Description
