@@ -4,42 +4,46 @@
 * 👤 Presenter: Javier Viola
 * 📆 Date scheduled: September 13th 2022
 
+👉 [Join the livestream on Crowdcast](https://www.crowdcast.io/e/substrate-seminar-2/24).
+
 ### Description
 
 Learn about the current tools available for spawning and testing Substrate based blockchains and what Zombienet provides to enable this. 
-In this seminar, Parity engineer Javier will go through Zombienet's features and an overview of what can be expected to come.
+In this seminar, Javier (Parity Simulation Network Lead) will go through Zombienet's features and an overview of new features to come.
+
+You will learn about different use cases for Zombienet and how you can spawn your own network and use Zombienet's testing framework to run your own tests.
 
 ### Topic
 
-Testnets, integration test, tools
+Testnets, integration tests, tools
 
 ### Plan
 
-We will first talk about the current tools available for spawning/testing substrate based blockchains and the origin of the Zombienet, then we will cover some of the frictions we target with this tool and the design decisions we made. 
+We will first talk about the current tools available for spawning/testing Substrate based blockchains and the origins of the Zombienet.
+Then we will cover some of the frictions this tool helps overcome and the design considerations and decisions made when building it. 
 
-Then, we will walkthrough the main features, divided in two phases (spawning and testing) and the features available in each one.
+Then, Javier will walkthrough the main features, divided in two phases (spawning and testing) and the features available in each one.
 
-Finally, we will go over a demo and present the future roadmap.
+Finally, we will go over a demo and present some of the features to come.
 
 #### Presentation
 
- - Current state of tools/testnets.
- - Origin of Zombienet.
- - Goals and design decisions.
- - Spawning phase (multiple providers).
- - Testing phase.
- - Future roadmap.
+ - Current state of tools/testnets
+ - Origins of Zombienet
+ - Goals and design decisions
+ - Spawning phase (multiple providers)
+ - Testing phase
+ - Future roadmap
  - Q&A
 
 #### Demo
 
-- Covering multiples use case that are in use in polkadot/cumulus repo.
+- Covering multiples use cases in the Polkadot/ Cumulus repo.
 
 ### Links and resources
 
-[Repo](https://github.com/paritytech/zombienet)
-
-[Docs](https://paritytech.github.io/zombienet/book/)
-
-[Decoded presentation (es)](https://www.youtube.com/watch?v=lcNej9W0DZ4)
+* [Zombienet Github repository](https://github.com/paritytech/zombienet)
+* [Zombienet Docs](https://paritytech.github.io/zombienet/book/)
+* [Polkadot Decoded presentation (Spanish)](https://www.youtube.com/watch?v=lcNej9W0DZ4)
+* [Zombienet registry (Polkadot forum discussion)](https://forum.polkadot.network/t/zombienet-registry/319)
 
