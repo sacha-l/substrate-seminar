@@ -2,9 +2,11 @@
 
 ⚡️ Intermediate
 
-👤 Presenter: Phala network
+👤 Presenter: Hang Yin
 
-📆 Date scheduled: September 27th 2022
+📆 Date scheduled: September 30th 2022
+
+Join here: https://www.crowdcast.io/e/substrate-seminar-2/25
 
 ### Description
 
