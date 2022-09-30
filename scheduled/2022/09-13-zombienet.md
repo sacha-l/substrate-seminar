@@ -43,7 +43,7 @@ Finally, we will go over a demo and present some of the features to come.
 ### Links and resources
 
 * [Zombienet Github repository](https://github.com/paritytech/zombienet)
-* [Zombienet Docs](https://paritytech.github.io/zombienet/book/)
+* [Zombienet Docs](https://paritytech.github.io/zombienet/)
 * [Polkadot Decoded presentation (Spanish)](https://www.youtube.com/watch?v=lcNej9W0DZ4)
 * [Zombienet registry (Polkadot forum discussion)](https://forum.polkadot.network/t/zombienet-registry/319)
 
