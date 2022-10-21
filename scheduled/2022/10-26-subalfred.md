@@ -14,7 +14,7 @@ SubAlfred provides parachain developers with a bunch of utilities for working wi
 Some ideas that were initially proposed for this seminar's presenter to cover were:
 * Runtime upgrades and how to _dry-run_ runtime upgrades
 * Forking live chains/rewriting a chainspec with alice keys
-* Quering for pallet prefixes
+* Querying for pallet prefixes
 
 ### Topic
 
