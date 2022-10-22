@@ -34,7 +34,7 @@ The commands include:
 * `storage-key`
 * `workspace`
 
-Xavier will go through this list, with a focus on using `convert` in a project's CI and how to use `state` on a template chain.
+Xavier will go through this list, with a focus on using `check` in a project's CI and how to use `state` on a template chain.
 
 ### Links and resources
 
