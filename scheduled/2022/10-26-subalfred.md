@@ -77,7 +77,7 @@ The first thing we need to know is the storage key of pallet prefix and the stor
 
 We just need to run:
 ```
-subalfred storage-key --pallet System --item Account
+subalfred storage-key --prefix System --item Account
 ```
 Then we got the result:
 ```
