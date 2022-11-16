@@ -4,16 +4,18 @@ A place to discuss topics for upcoming seminars and revisit past ones.
 
 👉 [**Add Seminar to my calendar**](https://calendar.google.com/calendar/u/0?cid=Y192cXBsamk3cXY2ajBvcDVrbmdwMGR0cjUzc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) 👈
 
+#### ⚠️ Update: we will be trying out streaming Seminar on Twitch going forward. Please subscribe to the channel [here](https://www.twitch.tv/polkadotdev).
+
 ## About Substrate seminar
 
-Substrate seminar is a bi-weekly online meet-up by Parity Technologies for learning all things [Substrate](https://substrate.io/).
+Substrate seminar is an online meet-up by Parity Technologies for learning all things [Substrate](https://substrate.io/).
 At Seminar, we're joined by developers building in the Polkadot ecosystem, whether they are core engineers from Parity, tooling engineers or parachain developers.
 
 Seminars happen live via [Crowdcast](https://www.crowdcast.io/e/substrate-seminar-2/), where participants can ask questions and engage directly with presenters.
-Each session is live streamed to [Parity's Youtube channel](https://www.youtube.com/c/ParityTech/playlists?view=50&sort=dd&shelf_id=3).
+Going forward, sessions will be edited and uploaded to [Parity's Youtube channel](https://www.youtube.com/c/ParityTech/playlists?view=50&sort=dd&shelf_id=3).
 
 📅 Stay informed of upcoming seminars by adding the seminar schedule to your calendar using [this link](https://calendar.google.com/calendar/u/0?cid=Y192cXBsamk3cXY2ajBvcDVrbmdwMGR0cjUzc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
-Seminar usually happens every other Tuesday at 3PM CET.
+Seminar usually happens on Tuesday's at 4PM CET. 
 
 ## ✅ Why have this repo?
 
