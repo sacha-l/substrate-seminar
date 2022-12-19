@@ -2,7 +2,7 @@
 
 * ⚡️ Beginner/intermediate
 * 👤 Presenter: Alex (Polkadot Support Engineer at Parity)
-* 📆 Date scheduled: December 20, 2022
+* 📆 Date scheduled: December 20, 2022 (4PM CET)
 
 👉 [Join the livestream on Twitch](https://www.twitch.tv/polkadotdev) to participate and get your questions answered.
 
