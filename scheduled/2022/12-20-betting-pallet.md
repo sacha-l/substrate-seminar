@@ -1,7 +1,7 @@
 # Launch a Betting parachain 
 
 * ⚡️ Beginner/intermediate
-* 👤 Presenter: Alex (Application engineer at Parity)
+* 👤 Presenter: Alex (Polkadot Support Engineer at Parity)
 * 📆 Date scheduled: December 20, 2022
 
 👉 [Join the livestream on Twitch](https://www.twitch.tv/polkadotdev) to participate and get your questions answered.
