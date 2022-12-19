@@ -24,7 +24,7 @@ FRAME macros
 
 ### Links and resources
 
-- [FRAME Macros](https://docs.substrate.io/reference/frame-macros/)
+- [FRAME Macros - Substrate docs](https://docs.substrate.io/reference/frame-macros/) and [Rust Docs](https://paritytech.github.io/substrate/master/frame_support/attr.pallet.html)
 - [`cargo expand`](https://github.com/dtolnay/cargo-expand)
 - [Macros - The Rust Reference](https://doc.rust-lang.org/reference/procedural-macros.html)
 - [Macros - The Rust Book](https://doc.rust-lang.org/book/ch19-06-macros.html)
