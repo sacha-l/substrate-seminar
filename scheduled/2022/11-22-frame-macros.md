@@ -1,4 +1,4 @@
-# Demystifying Macro Magic
+# Demystifying FRAME Macro Magic
 
 * ⚡️ Intermediate
 * 👤 Presenter: Sam (FRAME core developer at Parity)
