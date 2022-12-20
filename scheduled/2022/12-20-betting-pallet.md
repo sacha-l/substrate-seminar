@@ -1,7 +1,7 @@
 # Launch a Betting parachain 
 
 * ⚡️ Beginner/intermediate
-* 👤 Presenter: Alex (Polkadot Support Engineer at Parity)
+* 👤 Presenter: Alex Bean Casas(Polkadot Support Engineer at Parity)
 * 📆 Date scheduled: December 20, 2022 (4PM CET)
 
 👉 [Join the livestream on Twitch](https://www.twitch.tv/polkadotdev) to participate and get your questions answered.
@@ -39,12 +39,13 @@ This pallet is inspired by many tutorials in the Ethereum community for making a
 **More Advanced**
 
 1. Unit tests
-2. RPCs
+2. RPCs ([Tutorial about how to add a custom RPC](https://hackmd.io/JpJCbu0nTa2jym0za1Tggw))
 3. Benchmarking 
 
 **Important things to note:**
 
 * 🦀 Storage decisions: easily compare matches using `MatchHashes`.
+* 🏦 `MatchDeposit` to create a match to bet and limit of team name sizes and number of bets.
 * 🏋️ Benchmarking allows to give the appropriate weights to your pallet's extrinsics.
 * 👮‍♂️ For this workshop, `set_result` uses `ensure_root`, i.e. the "sudo" origin which could be a governance origin or trusted oracle. Read more about origins [here](https://docs.substrate.io/build/origins/).
 
