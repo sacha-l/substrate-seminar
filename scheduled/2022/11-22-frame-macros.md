@@ -4,7 +4,7 @@
 * 👤 Presenter: Sam (FRAME core developer at Parity)
 * 📆 Date scheduled: November 22, 2022
 
-👉 [Join the livestream on Twitch](https://www.twitch.tv/polkadotdev) to participate and get your questions answered.
+📺 Watch the full recording on [YouTube](https://www.youtube.com/watch?v=aEWbZxNCH0A).
 
 ### Description
 
