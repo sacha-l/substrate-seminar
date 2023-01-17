@@ -1,4 +1,4 @@
-# Indexing Multiple Polkadot chains with SubQuery 
+# Indexing multiple Polkadot chains with SubQuery 
 
 * ⚡️ Beginner
 * 👤 Presenter: James Bayly (COO at Subquery)
@@ -37,5 +37,5 @@ In this seminar we're going to dive deep into our architecture and philosophy, t
   - [Technical documentation](https://academy.subquery.network/build/introduction.html)
   - [Multi-chain indexing](https://academy.subquery.network/build/multi-chain.html)
   - [Guides on how to run your projects](https://academy.subquery.network/run_publish/run.html)
-- [SubQuery Explorer](explorer.subquery.network/) is our hosting provider with a generour free tier. It also shows off hundreds of live examples from other teams around the ecosystem
+- [SubQuery Explorer](explorer.subquery.network/) is our hosting provider with a generous free tier. It also shows off hundreds of live examples from other teams around the ecosystem
 - [SubQuery GitHub](https://github.com/subquery/subql)
