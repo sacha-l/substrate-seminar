@@ -5,6 +5,7 @@
 * 📆 Date scheduled: November 22, 2022
 
 📺 Watch the full recording on [YouTube](https://www.youtube.com/watch?v=aEWbZxNCH0A).
+👉 View the slides [here](https://docs.google.com/presentation/d/1o_2U3mJfCjIQ_YxxHPS2Ok9O2o-1Tlho9CG80FaC_Nw/edit?usp=sharing).
 
 ### Description
 
