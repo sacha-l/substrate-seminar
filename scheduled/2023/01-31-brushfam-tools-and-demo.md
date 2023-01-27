@@ -1,7 +1,7 @@
 # Build a simple voting dapp using Brushfam's tool suite for ink! smart contract development
 
 * ⚡️ Beginner friendly, Intermediate
-* 👤 Presenters: Dominik and Fedor (Developers at 727 Ventures)
+* 👤 Presenters: Dominik (Core Developer at 727 Ventures)
 * 📆 Date scheduled: January 31, 2023 (4PM CET)
 
 👉 [Join the livestream on Twitch](https://www.twitch.tv/polkadotdev) to participate and get your questions answered.
@@ -24,9 +24,10 @@ ink! smart contract development, openbrush
 ## Plan
 
 1. **Introduction to Brushfam tools**
-  * Sol2Ink: a tool to convert a Solidity smart contract to an ink! smart contract
   * OpenBrush: macros and utilities in ink! smart contract development
   * Typechain-Polkadot: tool to generate ABI for the contracts
+  * Sol2Ink: a tool to convert a Solidity smart contract to an ink! smart contract
+
   
 2. **Build a simple voting dapp**
   * Dapp logic and overview
