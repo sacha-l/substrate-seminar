@@ -13,7 +13,7 @@ Brushfam maintains critical tools for the ink! smart contract ecosystem, which s
 Please join us on the live stream to ask questions and follow along the live coding. 
 
 The tools we'll go over are:
-* [OpenBrush](https://github.com/727-Ventures/openbrush-contracts): ink! smart contract library to ease the development of ink! contracts
+* [OpenBrush](https://docs.openbrush.io/): ink! smart contract library to ease the development of ink! contracts
 * [Typechain-polkadot](https://github.com/727-Ventures/typechain-polkadot): typescript wrapper around ink! smart contracts which can be used either in UI or typescript integration tests
 * [Sol2Ink](https://github.com/727-Ventures/sol2ink): tool for easy migration from Solidity to ink!
 
