@@ -21,12 +21,12 @@ NFT, front-end development
 1. Introduction and overview
 2. What is Kodadot
 3. How it works with indexers 
-3.1. Explain and explore the GraphQL API
-4. Simple intro to [Uniquery](https://github.com/kodadot/uniquery)
-5. Explain the code from the [demo shop we're building](https://fandom.deno.dev/)
-6. Go over the tech stack: [Deno](https://deno.land/) & [Fresh](https://fresh.deno.dev/)
-7. Live coding demo to swap the function from collection fetching to address fetching
-8. Create new route for collection view
+4. Explain and explore the GraphQL API
+5. Simple intro to [Uniquery](https://github.com/kodadot/uniquery)
+6. Explain the code from the [demo shop we're building](https://fandom.deno.dev/)
+7. Go over the tech stack: [Deno](https://deno.land/) & [Fresh](https://fresh.deno.dev/)
+8. Live coding demo to swap the function from collection fetching to address fetching
+9. Create new route for collection view
   
 ## Links and resources
 
