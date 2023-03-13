@@ -8,8 +8,9 @@
 
 ## Description
 
-Join Viki (co-founder at Kodadot) and Sacha to learn how to build an NFT shop with Kodadot. 
+Join Viki (co-founder at Kodadot) and Sacha to learn how to build an NFT shop for Polkadot using Kodadot's APIs. 
 We will cover how to build a simple webapp that queries NFTs by collection and address owners using Deno and Fresh. 
+
 Check out what we'll be building here: https://fandom.deno.dev/
 
 ## Topics
