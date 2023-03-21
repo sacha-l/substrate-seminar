@@ -9,7 +9,7 @@ A place to discuss topics for upcoming seminars and revisit past ones.
 ## About Substrate seminar
 
 Substrate seminar is an online meet-up by Parity Technologies for learning all things [Substrate](https://substrate.io/).
-At Seminar, we're joined by developers building in the Polkadot ecosystem, whether they are core engineers from Parity, tooling engineers or parachain developers.
+At Seminar, we're joined by developers building in the Polkadot ecosystem &mdash; whether they are builders in the community building cool things, core blockchain engineers developing Substrate, tooling engineers or parachain developers &mdash; to learn from what they're working on.
 
 📅 Stay informed of upcoming seminars by adding the seminar schedule to your calendar using [this link](https://calendar.google.com/calendar/u/0?cid=Y192cXBsamk3cXY2ajBvcDVrbmdwMGR0cjUzc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
 Seminar usually happens on Tuesday's at 4PM CET. 
