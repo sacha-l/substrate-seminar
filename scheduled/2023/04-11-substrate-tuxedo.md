@@ -2,7 +2,7 @@
 
 * ⚡️ Intermediate
 * 👤 Presenters: Joshy (Blockchain Chef) and Andrew (Blockchain Connoisseur)
-* 📆 Date scheduled: April 11, 2023 (4PM CET)
+* 📆 Date scheduled: April 18, 2023 (4PM CET)
 
 👉 [Join the livestream on Twitch](https://www.twitch.tv/polkadotdev) to ask questions and hang out in the chats!
 
