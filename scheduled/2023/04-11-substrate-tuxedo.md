@@ -33,5 +33,6 @@ This Seminar will cover foundational concepts, discuss the UTXO model theory, li
 
 ### Links and resources
 
-Tuxedo repository: https://github.com/Off-Narrative-Labs/Tuxedo/
-W3F Grant: https://github.com/w3f/Grants-Program/blob/master/applications/tuxedo.md
+- Tuxedo repository: https://github.com/Off-Narrative-Labs/Tuxedo/
+- W3F Grant: https://github.com/w3f/Grants-Program/blob/master/applications/tuxedo.md
+- Slides: https://off-narrative-labs.github.io/Substrate-Seminar-april-2023
