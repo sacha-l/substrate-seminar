@@ -4,7 +4,7 @@ A place to discuss topics for upcoming seminars and revisit past ones.
 
 👉 [**Add Seminar to my calendar**](https://calendar.google.com/calendar/u/0?cid=Y192cXBsamk3cXY2ajBvcDVrbmdwMGR0cjUzc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) 👈
 
-#### ⚠️ Update: we will be trying out streaming Seminar on Twitch going forward. Please subscribe to the channel [here](https://www.twitch.tv/polkadotdev).
+#### ⚠️ Update: we will be trying out streaming Seminar to [YouTube](https://www.youtube.com/@PolkadotNetwork), [Twitch](https://www.twitch.tv/polkadotdev), [Twitter](https://twitter.com/substrate_io?lang=en), and [LinkedIn](https://www.linkedin.com/company/paritytech) all at once! You can subscribe to Twitch [here](https://www.twitch.tv/polkadotdev) or watch on any of the other channels.
 
 ## About Substrate seminar
 
